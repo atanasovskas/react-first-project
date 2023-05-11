@@ -1,0 +1,131 @@
+body {
+  margin: 0px;
+  text-align: center;
+  background-color: #23252C;
+}
+
+.me{
+  width:100%;
+
+  border-top-left-radius: 10%;
+  border-top-right-radius: 10%;
+}
+.app{
+  margin-top: 50px;
+  border-radius: 25px;
+  text-align: center;
+  background-color: #1A1B21;
+  width: 50%;
+  font-family: inter;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+.header>h1{
+  -webkit-text-fill-color: white;
+}
+.header>h3{
+  -webkit-text-fill-color: #F3BF99;
+  margin-bottom: -16px;
+  padding-bottom: -10px;
+}
+.header>h6{
+  -webkit-text-fill-color: white;
+}
+
+.buttons{
+  align-items: center;
+  justify-content: space-around;
+  display: flex;
+  -webkit-text-fill-color: #1A1B21;
+  padding-top: 30px;
+
+}
+.button1{
+  background-color: whitesmoke;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 100px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius:10px;
+
+}
+
+.button1>img{
+  padding-right: 10px;
+
+}
+.button2>img{
+  padding-right: 10px;
+  width: 17px;
+  padding-bottom: 3.2px;
+}
+.button2{
+  background-color: whitesmoke;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 100px;
+  border-radius:10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+.paragraphs>p{
+
+  width: 300px;
+  text-align: justify;
+}
+.paragraphs>h1{
+  text-align: left;
+  width: 300px;
+  padding-top: 50px;
+}
+
+.paragraphs{
+  padding-left: 200px;
+  -webkit-text-fill-color: white;
+}
+
+.li{
+  width:20px;
+}
+.mail
+{
+  width: 25px;
+}
+
+.fb{
+  width: 40px;
+
+}
+.git{
+  width: 50px;
+}
+.insta
+{
+  width: 40px;
+
+}
+.footer>img{
+  padding: 10px;
+}
+.footer{
+  background-color: #161619;
+  margin-top: 60px;
+  border-radius:0px 0px 25px 25px;
+  padding: 10px 0px 10px 0px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
